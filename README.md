@@ -13,6 +13,6 @@ Java | Spring Boot | Vue | TypeScript | Kotlin | Angular | Web trio (Html, CSS &
 
 <div align="left">
   
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiostavares&layout=compact&hide_border=true&text_color=ffffff&bg_color=0d1117" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiostavares&layout=compact&hide_border=true&text_color=ffffff&bg_color=0d1117" />
   
 </div>
